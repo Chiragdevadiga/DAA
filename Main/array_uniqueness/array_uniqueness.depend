@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684990197 source:/home/student/DAA_20/array_uniqueness/main.c
+	<stdio.h>
+	<stdlib.h>
+

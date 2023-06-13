@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684385182 source:/home/student/DAA_20/GCD_middleschool/main.c
+	<stdio.h>
+	<stdlib.h>
+

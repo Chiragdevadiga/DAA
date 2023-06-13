@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684387270 source:/home/student/DAA_20/linear_search/main.c
+	<stdio.h>
+	<stdlib.h>
+

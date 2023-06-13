@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684386167 source:/home/student/DAA_20/prime_num_sieve_algorithm/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
